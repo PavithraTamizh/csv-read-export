@@ -11,7 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/csv-read-export.git"
+    "url": "git+https://github.com/PavithraTamizh/csv-read-export.git"
+  },
+  "homepage": "https://github.com/PavithraTamizh/csv-read-export#readme",
+  "bugs": {
+    "url": "https://github.com/PavithraTamizh/csv-read-export/issues"
   },
   "keywords": [
     "csv",

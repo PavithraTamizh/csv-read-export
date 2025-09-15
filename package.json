@@ -1,0 +1,26 @@
+{
+  "name": "csv-read-export",
+  "version": "1.0.0",
+  "description": "A minimal CSV parser and exporter library.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests yet\" && exit 0",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/csv-read-export.git"
+  },
+  "keywords": ["csv", "parser", "export", "library"],
+  "author": "Your Name",
+  "license": "MIT",
+  "files": ["dist"],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

@@ -13,10 +13,17 @@
     "type": "git",
     "url": "git+https://github.com/yourusername/csv-read-export.git"
   },
-  "keywords": ["csv", "parser", "export", "library"],
-  "author": "Your Name",
+  "keywords": [
+    "csv",
+    "parser",
+    "export",
+    "library"
+  ],
+  "author": "Pavithra Divyaprasanth",
   "license": "MIT",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "publishConfig": {
     "access": "public"
   },
